@@ -1,5 +1,7 @@
-import streamlit as st
+import numpy as np
 from PIL import Image
+import tensorflow as tf
+import streamlit as st
 import time
 
 # ---------------- PAGE CONFIG ----------------
